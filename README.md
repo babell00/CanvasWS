@@ -11,7 +11,7 @@ git clone https://github.com/babell00/CanvasWS.git
 
 ###Installing
 ```
-cd RealCpuWS
+cd CanvasWS
 npm install
 ```
 
