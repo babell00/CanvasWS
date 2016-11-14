@@ -1,0 +1,13 @@
+{
+  "name": "CanvasWS",
+  "version": "0.0.1",
+  "description": "Simple drawing application. App is example how to combine WebSocket communication with html5 canvas element.",
+  "main": "app.js",
+  "author": "Jakub Gajzler",
+  "license": "ISC",
+  "dependencies": {
+    "browser-sync": "^2.11.2",
+    "gulp": "^3.9.1",
+    "ws": "^1.1.1"
+  }
+}
